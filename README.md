@@ -1,6 +1,6 @@
 # 📊 Ventas Data Cleaning
 
-Welcome to the Ventas ***Data Cleaning project***!
+Welcome to the ***Ventas Data Cleaning***!
 This repository contains a Python notebook focused on preprocessing and cleaning a sales dataset. The goal is to get the data clean, structured, and ready for future analysis, visualizations, or predictive models.
 
 ---
